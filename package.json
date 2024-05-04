@@ -1,0 +1,22 @@
+{
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "description": "Make a fizz buzz module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Need to make some tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JosieArent/fizz_buzz.git"
+  },
+  "author": "Josie <josiearent@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosieArent/fizz_buzz/issues"
+  },
+  "homepage": "https://github.com/JosieArent/fizz_buzz#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
